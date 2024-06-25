@@ -31,3 +31,4 @@ for i in data_string:
     print(f"sekarang --> {i}")
 
 print("akhir dari program 4 \n")
+
